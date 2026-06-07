@@ -1,0 +1,11 @@
+Corporate Aerospace Blue v6
+bg: #0B1118
+panel: #101A25
+panel2: #142130
+line: #26364A
+text: #E6EDF5
+muted: #8A97A8
+accent: #3B82F6
+ok: #22C55E
+warning: #F59E0B
+danger: #EF4444

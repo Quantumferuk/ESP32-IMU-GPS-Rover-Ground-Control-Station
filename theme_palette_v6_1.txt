@@ -1,0 +1,15 @@
+Eltagron Rover GCS v6.1 Visual Refined Palette
+
+bg          #0B1118
+panel       #101A25
+panel2      #142130
+panel3      #182738
+line        #26364A
+text        #E6EDF5
+muted       #8A97A8
+accent      #3B82F6
+accent2     #60A5FA
+ok          #22C55E
+warn        #F59E0B
+danger      #EF4444
+graph_bg    #0D1722
