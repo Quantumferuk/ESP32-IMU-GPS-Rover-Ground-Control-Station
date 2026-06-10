@@ -3,7 +3,7 @@
 ESP32 tabanlı IMU-GPS rover test platformu için hazırlanmış Python/Tkinter tabanlı yer kontrol arayüzü.
 
 Bu arayüz; roverı manuel olarak kontrol etmek, seri port üzerinden gelen GPS/IMU verilerini izlemek, temel analiz grafikleri almak ve test sırasında oluşan durumları takip etmek için geliştirildi. Proje, Eltagron staj sürecinde kullanılan 6 tekerlekli IMU test platformunun PC tarafı kontrol yazılımıdır.
-
+![Arayüz önizleme](How to make.png)
 ![Arayüz önizleme](ui_reference.png)
 
 ## Özellikler
